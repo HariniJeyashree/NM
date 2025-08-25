@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+requests
+pandera
+pytest
+streamlit-plotly-events
+pre-commit
+black
+flake8
